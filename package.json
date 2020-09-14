@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/moran711/mern/issues"
   },
-  "homepage": "https://github.com/moran711/mern#readme"
+  "homepage": "https://github.com/moran711/mern#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  }
 }
