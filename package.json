@@ -1,0 +1,23 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moran711/mern.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Roman Romaniv <romaniv788@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moran711/mern/issues"
+  },
+  "homepage": "https://github.com/moran711/mern#readme"
+}
